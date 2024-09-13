@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: Pattern recognition project 1, Configuration: Debug Any CPU ------
+1>  Pattern recognition project 1 -> C:\Users\40218579\source\repos\Pattern recognition project 1\Pattern recognition project 1\bin\Debug\Pattern recognition project 1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 10:45 and took 01.180 seconds ==========
